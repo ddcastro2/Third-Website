@@ -1,31 +1,50 @@
-body{
-    background-color:blanchedalmond;
-    color:white;
-}
-h1{
-    color:blue
-}
-p{
-    color:crimson
+body {
+    background-color: blanchedalmond;
+    color: white;
 }
 
-img{border-radius: 30%;
+h1 {
+    color: blue
 }
 
-#special{
+p {
+    color: crimson
+}
+
+img {
+    border-radius: 30%;
+}
+
+#special {
     color: #64883b;
 }
-#special2{
-    color:rgb(83, 81, 202)
+
+#special2 {
+    color: rgb(83, 81, 202)
 }
-#special3{
-    color:rgb(32, 97, 155);
-    background-color:rgb(253, 143, 0)
+
+#special3 {
+    color: rgb(32, 97, 155);
+    background-color: rgb(253, 143, 0)
 }
-#special4{
-    color:rgb(148, 96, 153);
+
+#special4 {
+    color: rgb(148, 96, 153);
     background-color: #00d9ff;
 }
-hr{
+
+hr {
     border: 2px solid red
+}
+
+ol {
+    color: rgb(204, 204, 0)
+}
+
+ul {
+    color: rgb(29, 158, 158)
+}
+
+li {
+    color: rgb(26, 26, 206)
 }
