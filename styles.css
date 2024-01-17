@@ -26,3 +26,6 @@ img{border-radius: 30%;
     color:rgb(148, 96, 153);
     background-color: #00d9ff;
 }
+hr{
+    border: 2px solid red
+}
